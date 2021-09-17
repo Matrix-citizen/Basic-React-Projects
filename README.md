@@ -7,3 +7,8 @@
 2. Open downloaded folder in VS Code.
 3. Using console, in this folder run `npm install`, to install all dependencies.
 4. In console run `npm start`, to spin up the local server.
+
+
+|  #  |                                                        Project on GitHub                                                  |                                         Demo                                                          |
+| :-: | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
+| 01  | [Birthday reminder](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/01-birthday-reminder)              | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/01-birthday-reminder/)                   |
