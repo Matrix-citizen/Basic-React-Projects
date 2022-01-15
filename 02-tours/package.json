@@ -1,5 +1,6 @@
 {
-  "name": "reminder",
+  "name": "tours",
+  "homepage": "http://matrix-citizen.online/Basic%20React%20Projects/02-tours/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
