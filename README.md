@@ -12,3 +12,4 @@
 |  #  |                                                        Project on GitHub                                                  |                                         Demo                                                          |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
 | 01  | [Birthday reminder](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/01-birthday-reminder)              | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/01-birthday-reminder/)                   |
+| 02  | [Tours](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/02-tours)                                      | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/02-tours/)                               |
