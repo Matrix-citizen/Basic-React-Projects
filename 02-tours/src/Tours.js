@@ -8,8 +8,10 @@ const Tours = ({tours}) => {
     </div>
     <div>
       {tours.map((tour) => {
+
         return <Tour key={tour.id} {...tour}></Tour>
-      })}
+      } 
+      )}
     </div>
   </section>;
 };
