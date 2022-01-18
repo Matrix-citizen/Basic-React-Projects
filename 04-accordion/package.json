@@ -1,5 +1,6 @@
 {
-  "name": "reminder",
+  "name": "accordion",
+  "homepage": "http://matrix-citizen.online/Basic%20React%20Projects/04-accordion/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
