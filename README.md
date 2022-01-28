@@ -16,4 +16,4 @@
 | 03  | [Reviews](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/03-reviews)                               | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/03-reviews/)                        |
 | 04  | [Accordion](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/04-accordion)                           | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/04-accordion/)                      |
 | 05  | [Menu](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/05-menu)                                     | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/05-menu/)                           |
-| 06  | [Menu](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/06-tabs)                                     | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/06-tabs/)                           |
+| 06  | [Tabs](https://github.com/Matrix-citizen/Basic-React-Projects/tree/master/06-tabs)                                     | [Demo](http://matrix-citizen.online/Basic%20React%20Projects/06-tabs/)                           |
