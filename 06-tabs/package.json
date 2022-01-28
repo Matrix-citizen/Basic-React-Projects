@@ -1,5 +1,6 @@
 {
   "name": "reminder",
+  "homepage": "http://matrix-citizen.online/Basic%20React%20Projects/06-tabs/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
